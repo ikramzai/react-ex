@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  height: 14vh;
+  background-color: rgb(150, 191, 224);
+  position: fixed;
+  right: 0;
+  left: 0;
+
+  
+}
+ul {
+  list-style: none;
+  display: flex;
+  height: 100%;
+  align-items: flex-end;
+  padding: 0;
+  justify-content: center;
+  gap: 1rem;
+}
+.logo {
+  height: 40px;
+  width: 40px;
+  border-radius: 100%;
+}
