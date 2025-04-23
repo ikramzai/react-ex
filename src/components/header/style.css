@@ -4,7 +4,8 @@
   align-items: center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   height: 14vh;
-  background-color: rgb(150, 191, 224);
+  background-color: #fffaf0;
+  background: linear-gradient(rgba(255, 255, 255, 0.7));
   position: fixed;
   right: 0;
   left: 0;
@@ -20,6 +21,7 @@ ul {
   justify-content: center;
   gap: 1rem;
 }
+
 .logo {
   height: 40px;
   width: 40px;
